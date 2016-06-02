@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>cl.ucinf</groupId>
-    <artifactId>testhadoop</artifactId>
+    <artifactId>maximo</artifactId>
     <version>1.0.0</version>
 
     <properties>
@@ -37,7 +37,7 @@
                 <archive>
                     <manifest>
                         <addClasspath>true</addClasspath>
-                        <mainClass>cl.ucinf.clase.WordCount</mainClass>
+                        <mainClass>cl.ucinf.clase.Aplicacion</mainClass>
                     </manifest>
                 </archive>
             </configuration>
